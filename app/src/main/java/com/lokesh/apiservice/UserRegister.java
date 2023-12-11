@@ -17,6 +17,24 @@ public class UserRegister {
         this.roletype = roletype;
     }
 
+//    private int updateserver;
+//
+//    public int getUpdateserver() {
+//        return updateserver;
+//    }
+//
+//    public void setUpdateserver(int updateserver) {
+//        this.updateserver = updateserver;
+//    }
+//    public UserRegister(int plaza_id = null , String login_name = null , String first_name  = null , String last_name  = null , String password  = null , int roletype  = null ) {
+//        this.plaza_id = plaza_id;
+//        this.login_name = login_name;
+//        this.first_name = first_name;
+//        this.last_name = last_name;
+//        this.password = password;
+//        this.roletype = roletype;
+//    }
+
 // Getter Methods
 
     public int getPlaza_id() {
